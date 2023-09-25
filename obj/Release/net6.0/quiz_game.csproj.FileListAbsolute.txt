@@ -1,0 +1,14 @@
+D:\projekty programowanie\C#\quiz_game\bin\Release\net6.0\quiz_game.exe
+D:\projekty programowanie\C#\quiz_game\bin\Release\net6.0\quiz_game.deps.json
+D:\projekty programowanie\C#\quiz_game\bin\Release\net6.0\quiz_game.runtimeconfig.json
+D:\projekty programowanie\C#\quiz_game\bin\Release\net6.0\quiz_game.dll
+D:\projekty programowanie\C#\quiz_game\bin\Release\net6.0\quiz_game.pdb
+D:\projekty programowanie\C#\quiz_game\obj\Release\net6.0\quiz_game.GeneratedMSBuildEditorConfig.editorconfig
+D:\projekty programowanie\C#\quiz_game\obj\Release\net6.0\quiz_game.AssemblyInfoInputs.cache
+D:\projekty programowanie\C#\quiz_game\obj\Release\net6.0\quiz_game.AssemblyInfo.cs
+D:\projekty programowanie\C#\quiz_game\obj\Release\net6.0\quiz_game.csproj.CoreCompileInputs.cache
+D:\projekty programowanie\C#\quiz_game\obj\Release\net6.0\quiz_game.dll
+D:\projekty programowanie\C#\quiz_game\obj\Release\net6.0\refint\quiz_game.dll
+D:\projekty programowanie\C#\quiz_game\obj\Release\net6.0\quiz_game.pdb
+D:\projekty programowanie\C#\quiz_game\obj\Release\net6.0\quiz_game.genruntimeconfig.cache
+D:\projekty programowanie\C#\quiz_game\obj\Release\net6.0\ref\quiz_game.dll
